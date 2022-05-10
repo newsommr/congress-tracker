@@ -10,3 +10,5 @@ Pillow ($ pip install Pillow)
 Edit line 8 of congress_bills_bot.py with your ProPublica API key from [here](https://www.propublica.org/datastore/api/propublica-congress-api).
 
 Edit line 16 of congress_bills_bot.py with your Twitter API keys.
+
+Run the script with 'python congress_bills_bot.py'
